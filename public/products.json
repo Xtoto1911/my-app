@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Book 1",
+    "image": "/img/1book.jpg",
+    "description": "This is a description of Book 1.",
+    "category": "books",
+    "price": 10.99
+  },
+  {
+    "id": 2,
+    "name": "Book 2",
+    "image": "/img/2book.jpg",
+    "description": "This is a description of Book 2.",
+    "category": "books",
+    "price": 15.99
+  },
+  {
+    "id": 3,
+    "name": "Manga 1",
+    "image": "/img/2manga.jpg",
+    "description": "This is a description of Manga 1.",
+    "category": "manga",
+    "price": 20.99
+  },
+  {
+    "id": 4,
+    "name": "Manga 2",
+    "image": "/img/5manga.jpg",
+    "description": "This is a description of Manga 2.",
+    "category": "manga",
+    "price": 25.99
+  },
+
+  {
+    "id": 5,
+    "name": "Manga 2",
+    "image": "/img/6manga.jpg",
+    "description": "This is a description of Manga 2.",
+    "category": "manga",
+    "price": 25.99
+  },
+  {
+    "id": 6,
+    "name": "Manga 2",
+    "image": "/img/6manga.jpg",
+    "description": "This is a description of Manga 2.",
+    "category": "manga",
+    "price": 25.99
+  },
+
+  {
+    "id": 7,
+    "name": "Manga 2",
+    "image": "/img/6manga.jpg",
+    "description": "This is a description of Manga 2.",
+    "category": "manga",
+    "price": 25.99
+  },
+  {
+    "id": 8,
+    "name": "Manga 2",
+    "image": "/img/6manga.jpg",
+    "description": "This is a description of Manga 2.",
+    "category": "manga",
+    "price": 25.99
+  },
+  {
+    "id": 9,
+    "name": "Manga 2",
+    "image": "/img/6manga.jpg",
+    "description": "This is a description of Manga 2.",
+    "category": "manga",
+    "price": 25.99
+  },
+  {
+    "id": 10,
+    "name": "Manga 2",
+    "image": "/img/6manga.jpg",
+    "description": "This is a description of Manga 2.",
+    "category": "manga",
+    "price": 25.99
+  }
+]
